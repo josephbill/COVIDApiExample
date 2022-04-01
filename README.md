@@ -11,4 +11,6 @@ Happy Coding :-)
 
 # Assignment 
 
-Implement Fragments for the two screens i.e. Have one activity , host two fragments on it. One for the post process , the other for the get process.
+Fork this repository
+
+1. Implement Fragments for the two screens i.e. Have one activity , host two fragments on it. One for the post process , the other for the get process.
